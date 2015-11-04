@@ -1,0 +1,19 @@
+{
+  "name": "fetch-values",
+  "version": "1.0.0",
+  "description": "Fetch values from arrays/objects quickly without worrying about whether keys exist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianseitel/fetch-js.git"
+  },
+  "author": "Brian Seitel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianseitel/fetch-js/issues"
+  },
+  "homepage": "https://github.com/brianseitel/fetch-js"
+}

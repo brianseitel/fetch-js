@@ -1,6 +1,6 @@
 {
   "name": "fetch-values",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Fetch values from arrays/objects quickly without worrying about whether keys exist",
   "main": "index.js",
   "scripts": {

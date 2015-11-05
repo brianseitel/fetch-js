@@ -1,6 +1,6 @@
 'use strict';
 
-exports.fetch = function (obj, key, _default) {
+exports = function (obj, key, _default) {
   if (obj.hasOwnProperty(key)) {
     return obj[key];
   }
